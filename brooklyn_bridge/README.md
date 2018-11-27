@@ -1,6 +1,6 @@
 # Brooklyn Bridge Pedestrian Traffic Analysis
 
-Please check out for the report here: https://medium.com/doing-data-stuff/brooklyn-bridge-pedestrian-traffic-analysis-84ae6834cf26
+Please check out the report here: https://medium.com/doing-data-stuff/brooklyn-bridge-pedestrian-traffic-analysis-84ae6834cf26
 
 eda.ipynb is the file I used to create most of the initial insights and plots
 
