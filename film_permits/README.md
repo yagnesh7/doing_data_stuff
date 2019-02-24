@@ -1,4 +1,4 @@
-# Where are Films shot in NYC?
+# Where does Filming Occur in NYC?
 
 Please check out the report here: https://medium.com/doing-data-stuff/where-does-filming-occur-in-nyc-6f985df03e35
 
