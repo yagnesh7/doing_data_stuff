@@ -1,5 +1,5 @@
 # Lyric Generation
-Please check out the report here: WIP
+Please check out the report here: https://medium.com/doing-data-stuff/lyric-generation-with-lstms-ft-mitski-5dde5de7c4b6
 
 genius_lyric_pull.ipynb is the file I used to pull the lyrics from Genius
 
